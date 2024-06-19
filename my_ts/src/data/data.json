@@ -1,0 +1,72 @@
+[
+    {
+        "review_text": "The RIF6 is a perfect size for what I needed and wanted. For its size, it has amazing sound and range. It is small but mighty. I would highly recommend this speaker.",
+        "review_posted_date": "22 Sep 2016",
+        "review_header": "Small but mighty",
+        "review_rating": 5,
+        "review_author": "Amazon Customer"
+    },
+    {
+        "review_text": "Great speaker, Unbelievable bass.",
+        "review_posted_date": "14 Feb 2017",
+        "review_header": "Five Stars",
+        "review_rating": 5,
+        "review_author": "Amazon Customer"
+    },
+    {
+        "review_text": "Stopped working shortly after it was not returnable. I would love to have it replaced because it was great while it worked for a month or two. Now it's just a paper weight.",
+        "review_posted_date": "02 Apr 2016",
+        "review_header": "Expensive paper weight",
+        "review_rating": 1,
+        "review_author": "Matthew Mahany"
+    },
+    {
+        "review_text": "Fantastic sound quality for the price. Works well with all my devices.",
+        "review_posted_date": "11 Mar 2018",
+        "review_header": "Great Value",
+        "review_rating": 4,
+        "review_author": "Jessica Lee"
+    },
+    {
+        "review_text": "Battery life is impressive, and the design is sleek and modern.",
+        "review_posted_date": "05 Jun 2019",
+        "review_header": "Stylish and Efficient",
+        "review_rating": 4,
+        "review_author": "John Doe"
+    },
+    {
+        "review_text": "The speaker stopped working after a week. Very disappointed with the quality.",
+        "review_posted_date": "22 Nov 2020",
+        "review_header": "Poor Quality",
+        "review_rating": 1,
+        "review_author": "Sarah Connor"
+    },
+    {
+        "review_text": "Easy to use and the connectivity is excellent. Would recommend to friends.",
+        "review_posted_date": "03 Jul 2017",
+        "review_header": "Highly Recommend",
+        "review_rating": 4,
+        "review_author": "Michael Smith"
+    },
+    {
+        "review_text": "Sound is good, but the build quality feels cheap.",
+        "review_posted_date": "15 Aug 2021",
+        "review_header": "Good Sound, Cheap Build",
+        "review_rating": 3,
+        "review_author": "Laura Wilson"
+    },
+    {
+        "review_text": "Perfect for travel. Compact and powerful. A must-have!",
+        "review_posted_date": "29 Dec 2018",
+        "review_header": "Travel Essential",
+        "review_rating": 5,
+        "review_author": "Kevin Brown"
+    },
+    {
+        "review_text": "Does not hold a charge for long. Not satisfied with the purchase.",
+        "review_posted_date": "14 Oct 2022",
+        "review_header": "Disappointing Battery Life",
+        "review_rating": 2,
+        "review_author": "Emily Davis"
+    }
+]
